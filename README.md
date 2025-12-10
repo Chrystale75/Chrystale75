@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Chrystale75
-- 👀 I’m interested in learning code and no-code...
-- 🌱 I’m currently learning no code
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Cahier des charges – Audit et Conformité
 
-<!---
-Chrystale75/Chrystale75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ce dépôt décrit les spécifications fonctionnelles pour l’application d’audit demandée :
+
+1. **Tableau de bord par critère/indicateur** avec états `OK` / `À compléter` / `Risque` et liens vers les preuves.
+2. **Pack d’audit exportable (PDF/ZIP)** incluant preuves, journal d’audit, procédures et bilans.
+3. **Checklist d’audit interne** avec assignation des tâches et dates limites.
+4. **Procédures opérationnelles** accessibles depuis l’application (gestion des réclamations, accessibilité, amélioration continue).
+
+## Documentation
+- [Tableau de bord](docs/dashboard.md)
+- [Pack d’audit exportable](docs/audit-pack.md)
+- [Checklist d’audit interne](docs/checklist.md)
+- [Procédures opérationnelles](docs/procedures.md)
+
+Chaque document précise les modèles de données, le parcours utilisateur et les règles métiers à implémenter.
